@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YsXVKfaJxB20yMOHNI0YCFXolFl8o5cOO/hg3qOmxu0KwUacUmRXbg0YBehS70X1NXjrEcc1oIKxXUH/9GbG3Q==",
+  "dgSpecHash": "gO47pGUPDdkttmqn8TniD8e+8nI1O2QMGTmydcYc3XqkwEH2TKV+beDok/clVOf09z9y+EaORRZezlhT5X3mIw==",
   "success": true,
   "projectFilePath": "/var/www/html/dotnet/LibraryManagement/LibraryManagement.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "/home/barme/.nuget/packages/microsoft.entityframeworkcore/3.1.4/microsoft.entityframeworkcore.3.1.4.nupkg.sha512",
     "/home/barme/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.4/microsoft.entityframeworkcore.abstractions.3.1.4.nupkg.sha512",
     "/home/barme/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.4/microsoft.entityframeworkcore.analyzers.3.1.4.nupkg.sha512",
+    "/home/barme/.nuget/packages/microsoft.entityframeworkcore.inmemory/3.1.4/microsoft.entityframeworkcore.inmemory.3.1.4.nupkg.sha512",
     "/home/barme/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.4/microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
     "/home/barme/.nuget/packages/microsoft.extensions.caching.memory/3.1.4/microsoft.extensions.caching.memory.3.1.4.nupkg.sha512",
     "/home/barme/.nuget/packages/microsoft.extensions.configuration/3.1.4/microsoft.extensions.configuration.3.1.4.nupkg.sha512",

@@ -23,7 +23,7 @@ namespace LibraryManagement.Data.Repository
         {
             return _context.Books
                     .Include(a=>a.Author)
-                    .Where(predicate)
+                    .Where(predicate);
         }
 
         public IEnumerable<Book> FindWithAuthorAndBorrowe(Func<Book, bool> predicate)
