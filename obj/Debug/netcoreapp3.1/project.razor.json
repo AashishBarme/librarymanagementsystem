@@ -20521,8 +20521,18 @@
   "RootNamespace": "LibraryManagement",
   "Documents": [
     {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Shared/AuthorPartial.cshtml",
+      "TargetPath": "Views\\Shared\\AuthorPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Author/Empty.cshtml",
+      "TargetPath": "Views\\Author\\Empty.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20556,8 +20566,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Author/Create.cshtml",
+      "TargetPath": "Views\\Author\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Customer/Empty.cshtml",
       "TargetPath": "Views\\Customer\\Empty.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Author/Update.cshtml",
+      "TargetPath": "Views\\Author\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Author/List.cshtml",
+      "TargetPath": "Views\\Author\\List.cshtml",
       "FileKind": "mvc"
     },
     {

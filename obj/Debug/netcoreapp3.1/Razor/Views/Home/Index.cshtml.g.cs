@@ -26,8 +26,22 @@ using LibraryManagement.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/var/www/html/dotnet/LibraryManagement/Views/_ViewImports.cshtml"
+using LibraryManagement.Data.Model;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "/var/www/html/dotnet/LibraryManagement/Views/_ViewImports.cshtml"
+using LibraryManagement.ViewModel;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7a03b079343b697176e720de9fa2d2a7e6e87ff5", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"aa52d9cdbb1e425c4da578f29ad771e443517792", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

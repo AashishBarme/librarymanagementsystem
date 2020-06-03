@@ -114,3 +114,8 @@
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/LibraryManagement.genruntimeconfig.cache
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Customer/Create.cshtml.g.cs
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Customer/Update.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/Create.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/Empty.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/List.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/Update.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AuthorPartial.cshtml.g.cs

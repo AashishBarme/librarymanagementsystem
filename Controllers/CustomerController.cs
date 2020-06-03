@@ -35,7 +35,7 @@ namespace librarymanagementsystem.Controllers
                 customerVM.Add(new CustomerViewModel
                 {
                     Customer = customer,
-                    BookCount = _bookRepository.Count(x =>x.BorroweId == customer.CustomerId)
+                    BookCount = _bookRepository.Count(x =>x.BorrowerId == customer.CustomerId)
                 });
             }
 
