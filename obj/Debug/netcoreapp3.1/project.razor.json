@@ -20526,8 +20526,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Book/List.cshtml",
+      "TargetPath": "Views\\Book\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Book/Empty.cshtml",
+      "TargetPath": "Views\\Book\\Empty.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Return/List.cshtml",
+      "TargetPath": "Views\\Return\\List.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20536,8 +20551,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Book/Update.cshtml",
+      "TargetPath": "Views\\Book\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Lend/LendBook.cshtml",
+      "TargetPath": "Views\\Lend\\LendBook.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20548,6 +20573,16 @@
     {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Customer/Update.cshtml",
       "TargetPath": "Views\\Customer\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Return/Empty.cshtml",
+      "TargetPath": "Views\\Return\\Empty.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Lend/List.cshtml",
+      "TargetPath": "Views\\Lend\\List.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20586,8 +20621,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Book/Create.cshtml",
+      "TargetPath": "Views\\Book\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Customer/List.cshtml",
       "TargetPath": "Views\\Customer\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/var/www/html/dotnet/LibraryManagement/Views/Lend/Empty.cshtml",
+      "TargetPath": "Views\\Lend\\Empty.cshtml",
       "FileKind": "mvc"
     },
     {

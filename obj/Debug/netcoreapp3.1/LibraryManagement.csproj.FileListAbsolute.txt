@@ -119,3 +119,12 @@
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/List.cshtml.g.cs
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Author/Update.cshtml.g.cs
 /var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AuthorPartial.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Book/Create.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Book/Empty.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Book/List.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Book/Update.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Lend/Empty.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Lend/LendBook.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Lend/List.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Return/Empty.cshtml.g.cs
+/var/www/html/dotnet/LibraryManagement/obj/Debug/netcoreapp3.1/Razor/Views/Return/List.cshtml.g.cs
